@@ -1,1 +1,1 @@
-# miscripts-website-hugo
+# MiScripts
