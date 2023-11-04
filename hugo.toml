@@ -1,4 +1,4 @@
-baseURL = "https://miscripts.org"
+baseURL = "https://miscripts.github.io/miscripts-website-hugo/"
 languageCode = "en-us"
 title = "MiScripts"
 theme = "hello-friend-ng"
