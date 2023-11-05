@@ -4,7 +4,7 @@ date: 2023-11-05
 draft: false
 ---
 ---
-![MiScripts_Medium](https://miscripts.org/images/miscripts_225.png)
+![MiScripts_Medium](https://miscripts.org/images/miscripts_only_225.png)
 ---
 # MiScripts
 __Collaborate · Innovate · Automate__
