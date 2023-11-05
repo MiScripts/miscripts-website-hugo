@@ -1,11 +1,11 @@
 ---
-title: "First Blog Post"
+title: "Tutorials"
 date: 2023-01-27T14:01:40+01:00
 draft: false
 ---
 
 ---
-__Advertisement :)__
+__Tutorials__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
   resize in browser.
