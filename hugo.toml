@@ -26,7 +26,6 @@ disableKinds = ["RSS"]
   logoMark     = ""
   logoText     = "MiScripts"
   logoHomeLink = "/"
-  path         = ""
 
 [[menu.main]]
   name       = "Home"
