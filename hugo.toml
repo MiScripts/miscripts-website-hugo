@@ -44,7 +44,7 @@ disableKinds = ["RSS"]
 
 [[menu.main]]
   name       = "Tutorials"
-  url        = "tutorials"
+  url        = "tutorials.md"
   weight     = 4
 
 #[[menu.main]]
