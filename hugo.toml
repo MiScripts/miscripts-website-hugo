@@ -42,17 +42,17 @@ disableKinds = ["RSS"]
   url        = "https://wiki.miscripts.org"
   weight     = 3
 
-[[menu.main]]
-  name       = "Tutorials"
-  url        = "tutorials"
-  weight     = 4
+#[[menu.main]]
+#  name       = "Tutorials"
+#  url        = "tutorials"
+#  weight     = 4
 
 [[menu.main]]
   name       = "Community"
   url        = "community"
-  weight     = 5
+  weight     = 4
 
 [[menu.main]]
   name       = "Contact"
   url        = "contact"
-  weight     = 6
+  weight     = 5
