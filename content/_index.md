@@ -1,1 +1,5 @@
-## Test Homepage
+---
+title: "Home"
+---
+
+# Test Homepage
