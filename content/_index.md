@@ -3,7 +3,7 @@ title: "MiScripts"
 date: 2023-11-05
 draft: false
 ---
-#MiScripts
+# MiScripts
 __Collaborate · Innovate · Automate__
 
 MIShell.org is a collaborative initiative developed by a dedicated team of IT professionals from multiple ISDs and schools throughout Michigan. Our collective aim is to provide a comprehensive repository of scripts specifically tailored for the needs of K-12 system administrators.
