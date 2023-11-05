@@ -15,8 +15,6 @@ disableKinds = ["RSS"]
   disableReadOtherPosts = true
   enableSharingButtons = true
   
-  homeSubtitle = "MiScripts.org is a collaborative initiative developed by a dedicated team of IT professionals from multiple ISDs and schools throughout Michigan."
-
   footerLeft = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
   footerRight = "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
