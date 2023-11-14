@@ -1,9 +1,8 @@
 ---
-title: "Contact"
+title: ""
 date: 2023-11-05T14:01:40+01:00
 draft: false
 ---
-## Contact Us
 
 Thank you for your interest in MiScripts.org. 
 
