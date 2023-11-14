@@ -3,7 +3,6 @@ title: "About Us"
 date: 2023-11-08T14:07:21+03:01
 draft: false
 ---
-## About Us
 
 __Who Are We?__
 
