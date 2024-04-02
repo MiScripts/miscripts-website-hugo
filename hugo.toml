@@ -44,7 +44,7 @@ disableKinds = ["RSS"]
 
 [[menu.main]]
   name       = "Submissions"
-  url        = "submission"
+  url        = "submissions"
   weight     = 4
 
 [[menu.main]]
