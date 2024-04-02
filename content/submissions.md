@@ -21,7 +21,6 @@ Submitting your script is simple. Follow the steps below to ensure your submissi
 
 3. **Submit Your Script**:
    Visit the following URL to submit your script or script package: [Submit Here](https://wcresa.sharepoint.com/:f:/s/miscripts.org/Eg4pCSLwms1OpbODeevA7QcBwbAHVP2kjUHCtBTM7aVLaw).
-
 ### Submission Format
 
 - For single-file scripts, submit the file in its native script language.
@@ -36,3 +35,9 @@ After submitting, you will be shown the successful upload. We will review your s
 - Scripts must be original and created by the submitting entity.
 - Submissions should be relevant to K-12 education, higher education, system administration, or network administration.
 - Ensure your script does not include copyrighted material.
+
+## Need Help?
+
+Should you have any questions or need assistance with your submission, don't hesitate to reach out to us at [help@miscripts.org]
+
+Thank you for contributing to our educational community! We eagerly await your innovative and educational scripts.
