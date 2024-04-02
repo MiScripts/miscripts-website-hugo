@@ -17,9 +17,32 @@ Submitting your script is simple. Follow the steps below to ensure your submissi
    Finalize your script, making sure it's ready for submission. If your script requires specific dependencies or includes multiple files, please package everything into a single ZIP file.
 
 2. **Include Our General Header**:
-   Make sure to include our general header at the top of your main script file. The details for the general header will be provided separately.
+   Make sure to include our general header at the top of your main script file. The header template can be found below:
 
-3. **Submit Your Script**:
+```powershell
+<#
+.SYNOPSIS
+  <Overview of script>
+.DESCRIPTION
+  <Brief description of script>
+.PARAMETER <Parameter_Name>
+    <Brief description of parameter input required. Repeat this attribute if required>
+.INPUTS
+  <Inputs if any, otherwise state None>
+.OUTPUTS
+  <Outputs if any, otherwise state None - example: Log file stored in C:\Windows\Temp\<name>.log>
+.NOTES
+  Version:        1.0
+  Author:         <Name>
+  Creation Date:  <Date>
+  Purpose/Change: Initial script development
+  
+.EXAMPLE
+  <Example goes here. Repeat this attribute for more than one example>
+#>
+```
+
+4. **Submit Your Script**:
    Visit the following URL to submit your script or script package: [Submit Here](https://wcresa.sharepoint.com/:f:/s/miscripts.org/Eg4pCSLwms1OpbODeevA7QcBwbAHVP2kjUHCtBTM7aVLaw).
 ### Submission Format
 
