@@ -40,4 +40,4 @@ After submitting, you will be shown the successful upload. We will review your s
 
 Should you have any questions or need assistance with your submission, don't hesitate to reach out to us at [help@miscripts.org]
 
-Thank you for contributing to our educational community! We eagerly await your innovative and educational scripts.
+Thank you for contributing to our community! 
