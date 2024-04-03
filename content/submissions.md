@@ -14,7 +14,7 @@ We are thrilled for your submission to MiScripts. Your contributions are invalua
 Submitting your script is simple. Follow the steps below to ensure your submission is ready for our review. If approved, it will be posted to our GitHub repo and subsequently posted on our Wiki.
 
 1. **Prepare Your Script**:
-   Finalize your script, making sure it's ready for submission. If your script requires specific dependencies or includes multiple files, please package everything into a single ZIP file.
+   Finalize your script, making sure it's ready for submission. This includes **sanitization** of sensitive material such as building IDs, names, IDs, etc. If your script requires specific dependencies or includes multiple files, please package everything into a single ZIP file.
 
 2. **Include Our General Header**:
    Make sure to include our general header at the top of your main script file. The header template can be found below:
